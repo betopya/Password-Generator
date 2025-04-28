@@ -1,0 +1,68 @@
+
+
+body {
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Yatayda ortala */
+  align-items: center; /* Dikeyde ortala */
+  height: 100vh; /* Sayfanın tamamını kapla */
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  padding: 70px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px; /* Maksimum genişlik */
+}
+
+h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+label {
+  font-size: 19px;
+  color: #333;
+}
+
+input {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-left: 15px;
+  width: 60px;
+}
+
+button {
+  background-color: #1f43e0;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: #1f43e0;
+}
+
+h3 {
+  color: #333;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1f43e0;
+}
