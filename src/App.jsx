@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [length, setLength] = useState(8); 
+  const [length, setLength] = useState(0); 
   const [password, setPassword] = useState('');
   const [includeUppercase, setIncludeUppercase] = useState(true); 
   const [includeLowercase, setIncludeLowercase] = useState(true); 
@@ -91,7 +91,7 @@ function App() {
       
       <p>{password}</p>
 
-      {/* copy password button */}
+      
       {password && <button onClick={copyToClipboard}>Copy Password</button>}
     </div>
   );
