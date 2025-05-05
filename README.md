@@ -1,4 +1,4 @@
-# Password Generator
+## Password Generator
 
 A simple and customizable password generator built using React and Vite. This application allows users to generate secure passwords with different lengths and complexity options, including uppercase letters, lowercase letters, numbers, and special characters.
 
@@ -6,21 +6,6 @@ A simple and customizable password generator built using React and Vite. This ap
 
 - **Password Length**: Choose the length of the generated password.
 - **Complexity Options**: Select which characters to include (uppercase, lowercase, numbers, and special characters).
-
-
-## Getting Started
-
-To get a local copy of the project up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-### Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/betopya/Password-Generator.git
 
 ## Technologies Used
 
@@ -30,8 +15,14 @@ Vite: A fast and lightweight build tool.
 
 CSS: For styling the application.
 
+## Usage
 
-If you have any questions, feel free to reach out!
+The project is live on GitHub Pages at: [Password-Generatori](https://betopya.github.io/Password-Generator/]
 
-GitHub: https://github.com/betopya
+### Development
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/betopya/Password-Generator.git
+
 
