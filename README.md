@@ -17,7 +17,7 @@ CSS: For styling the application.
 
 ## Usage
 
-The project is live on GitHub Pages at: [Password-Generator](https://betopya.github.io/Password-Generator/]
+The project is live on GitHub Pages at: [Password-Generator](https://betopya.github.io/Password-Generator/)]
 
 ### Development
 
